@@ -1,5 +1,6 @@
   <img src="https://komarev.com/ghpvc/?username=kalideir" alt="https://github.com/kalideir" />
 <pre>
+
 ┌──┤ WHOAMI ├─────────
 ├─ Full-Stack Engineer
 ├─ Machine Learning practitioner
@@ -7,10 +8,12 @@
 ├─ Check my snippets & posts on <a href="https://alihkudeir.com">Ali H. Kudeir</a>
 └─────────────────────
 
+
 ┌──┤ SOCIAL ├─────────
 ├─ <a href="https://twitter.com/kalideir">Twitter</a>
 ├─ <a href="https://www.linkedin.com/in/ali-h-kudeir">Linkedin</a>
 └─────────────────────
+
 
 ┌──┤ TECH STACK ├─────
 ├─ Frontend -> React, TypeScript, Apollo, Next, Redux-Toolkit, Tailwind-CSS
