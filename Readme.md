@@ -4,7 +4,7 @@
 ┌──┤ WHOAMI ├─────────
 ├─ Full-Stack Engineer
 ├─ Machine Learning practitioner
-├─ I know 4 languages: Ar, En, Tr, & De
+├─ I can speak 4 languages: Ar, En, Tr, & De
 ├─ Check my snippets & posts on <a href="https://alihkudeir.com">Ali H. Kudeir</a>
 └─────────────────────
 
