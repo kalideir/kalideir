@@ -20,7 +20,7 @@ online_tree.add("[bold link=https://koaning.io]koaning.io[/]     - [bright_black
 console.print(tree)
 console.print("")
 console.print("[green]Follow me on twitter [bold link=https://twitter.com/kalideir]@kalideir[/]")
-console.print("<img src="https://komarev.com/ghpvc/?username=kalideir" alt="https://github.com/kalideir" />")
+console.print('[<img src="https://komarev.com/ghpvc/?username=kalideir" alt="https://github.com/kalideir" />]')
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
